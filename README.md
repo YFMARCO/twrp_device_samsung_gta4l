@@ -1,1 +1,10 @@
-# twrp_device_samsung_gta4l
+# Android device tree for samsung SM-T505N (gta4l)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
